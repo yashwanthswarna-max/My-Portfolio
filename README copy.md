@@ -1,17 +1,74 @@
-# Yashwanth Kumar Swarna — 3D Portfolio
+# 🚀 Yashwanth Kumar – 3D Developer Portfolio
 
-## Run locally
-1. Extract the ZIP.
-2. Open `index.html` in a modern browser. For best results, use VS Code Live Server.
-3. Internet access is required for Google Fonts and the Three.js CDN.
+Welcome to my personal 3D Developer Portfolio! This website showcases my technical skills, projects, education, certifications, and coding profiles through an interactive and visually engaging 3D experience.
 
-## Customize
-- Edit text, project descriptions, and profile URLs in `index.html`.
-- Adjust colors and layout in `style.css`.
-- The 3D object and resume upload behavior are in `script.js`.
+## 👨‍💻 About Me
 
-## Resume
-The resume section starts in an upload-ready state. Choose your PDF using **Upload resume PDF**. The **View resume** and **Download** links become active for that selected file. This local browser selection is not uploaded to a hosting server.
+I am **Swarna Yashwanth Kumar**, a Computer Science and Engineering undergraduate passionate about programming, Artificial Intelligence, Machine Learning, and web development.
 
-## Publish
-Upload the extracted folder to GitHub Pages, Netlify, or Vercel as a static site. If deploying to a public host, add your resume PDF to the project and update the resume section if you prefer a permanently hosted resume link.
+I enjoy building innovative projects, exploring emerging technologies, and continuously improving my problem-solving skills.
+
+## ✨ Features
+
+- **3D Interactive Design:** Modern portfolio with an immersive 3D visual experience.
+- **Purple Neon Theme:** Futuristic dark interface with glowing visual elements.
+- **About Me:** Personal introduction and academic background.
+- **Technical Skills:** Overview of programming languages, frameworks, and tools.
+- **Projects:** Showcase of my development and AI/ML projects.
+- **Resume:** View and download my resume directly from the website.
+- **Social Profiles:** Direct links to my professional and coding platforms.
+- **Responsive Layout:** Designed to work across different screen sizes.
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Three.js
+- Python
+- OpenCV
+- Flask
+- SQLite
+
+## 🚀 Featured Project
+
+### AI Student Attendance System
+
+An AI-based attendance management system that uses face detection and recognition through a webcam to automate student attendance.
+
+**Technologies:** Python, OpenCV, Flask, SQLite, Machine Learning.
+
+## 🌐 Connect With Me
+
+- **LinkedIn:** [Yashwanth Kumar](https://www.linkedin.com/in/yashwanth-kumar-swarna-98955841a/)
+- **GitHub:** [yashwanthswarna-max](https://github.com/yashwanthswarna-max)
+- **LeetCode:** [Yashwanth0607](https://leetcode.com/u/Yashwanth0607/)
+- **CodeChef:** [soon_cats_63](https://www.codechef.com/users/soon_cats_63)
+- **Email:** [yashwanth.swarna@gmail.com](mailto:yashwanth.swarna@gmail.com)
+
+## 📄 Resume
+
+My resume is available on the portfolio website with options to view and download it.
+
+## 💻 Run Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yashwanthswarna-max/yashwanthswarna-max.github.io.git
+   ```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+## 🌍 Live Portfolio
+
+**Visit my portfolio:**  
+https://yashwanthswarna-max.github.io/
+
+---
+
+⭐ If you like my portfolio, feel free to explore my projects and connect with me!
+
+**Designed and developed by Swarna Yashwanth Kumar.**
